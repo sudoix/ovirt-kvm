@@ -1,8 +1,7 @@
-# My errors in administration of ovirt and kvm hosts
-
 ### Bad volume specification
 
 The error is:
+
 ```
 VM devcsredisbebsbkedit03 is down with error.
 Exit message: Bad volume specification {'device': 'disk', 'type': 'disk', 'diskType': 'file', 'specParams': {}, 'alias': 'ua-65353d40-f81a-402d-8d8c-8ede61428aca',
